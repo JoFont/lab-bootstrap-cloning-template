@@ -13,3 +13,9 @@
 .card:hover .card-img-top {
   transform: scale(1.05);
 }
+
+
+.bg-black {
+  background-color: black;
+  color: white;
+}
